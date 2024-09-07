@@ -1,8 +1,8 @@
-# Pump-dot-fun-bundler
+# Pump-fun-bundler
 
 ## The Cheapest and Easiest Way to Create and Bundle Up to 4 Wallets for Pump.fun Token Launches
 
-Kliq Bundler is a powerful tool designed to simplify the process of creating and bundling wallets for participating in token launches on Pump dot fun. With Kliq Bundler, you can easily manage up to 4 wallets, making it an ideal solution for users looking to optimize their token launch strategy.
+Kliq Bundler is a powerful tool designed to simplify the process of creating and bundling wallets for participating in token launches on Pump fun. With Kliq Bundler, you can easily manage up to 4 wallets, making it an ideal solution for users looking to optimize their token launch strategy.
 
 ### Features
 
